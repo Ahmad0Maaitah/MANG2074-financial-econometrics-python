@@ -93,6 +93,10 @@ All data files live in [`data/`](data/). Dates are `YYYY-MM-DD`.
 | `fred.csv` | Monthly Treasury yields | `GS3M`–`GS10` | extra |
 | `arch.csv`, `currencies_garch.csv`, `monthlyfactors.csv`, `vw_sizebm_25groups.csv`, `msc_fail_sheet1.csv`, `efficient_sheet1.csv`, `event_*.csv` | — | supplementary datasets for further practice | extra |
 
+## 🎮 Interactive practice site
+
+Every week has a matching interactive practice page — simulations with sliders, a scored game, and code challenges. They open directly in the browser (no installation): **[Practice hub](https://ahmad0maaitah.github.io/MANG2074-practice/)**. Each week folder's README also has a direct **▶ Open the practice page** link.
+
 ## Acknowledgement and use
 
 Teaching material and example applications are adapted from **Chris Brooks,
